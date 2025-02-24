@@ -1,4 +1,4 @@
-package task.module_3;
+package task.module_3.complex_task;
 
 public class TestComplexTaskExecutor {
     public static void main(String[] args) {

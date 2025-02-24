@@ -1,4 +1,4 @@
-package task.module_3;
+package task.module_3.blocking_queue;
 
 import java.util.LinkedList;
 import java.util.Queue;

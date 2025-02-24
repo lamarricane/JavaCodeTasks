@@ -1,4 +1,4 @@
-package task.module_4;
+package task.module_4.order;
 
 class Order {
     private String product;

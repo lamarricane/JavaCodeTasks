@@ -1,4 +1,4 @@
-package task.module_3;
+package task.module_3.concurrent_bank;
 
 import java.util.ArrayList;
 import java.util.List;

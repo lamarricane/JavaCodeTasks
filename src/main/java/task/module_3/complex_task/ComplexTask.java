@@ -1,4 +1,4 @@
-package task.module_3;
+package task.module_3.complex_task;
 
 public class ComplexTask {
     private final int taskId;

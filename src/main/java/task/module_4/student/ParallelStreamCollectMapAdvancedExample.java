@@ -1,4 +1,4 @@
-package task.module_4;
+package task.module_4.student;
 
 import java.util.Arrays;
 import java.util.List;

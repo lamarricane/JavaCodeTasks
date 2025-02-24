@@ -1,4 +1,4 @@
-package task.module_3;
+package task.module_3.concurrent_bank;
 
 public class ConcurrentBankExample {
     public static void main(String[] args) {

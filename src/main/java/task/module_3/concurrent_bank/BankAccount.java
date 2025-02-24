@@ -1,4 +1,4 @@
-package task.module_3;
+package task.module_3.concurrent_bank;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

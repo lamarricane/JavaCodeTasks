@@ -1,4 +1,4 @@
-package task.module_3;
+package task.module_3.complex_task;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

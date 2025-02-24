@@ -1,4 +1,4 @@
-package task.module_4;
+package task.module_4.factorial;
 
 import java.util.concurrent.RecursiveTask;
 
