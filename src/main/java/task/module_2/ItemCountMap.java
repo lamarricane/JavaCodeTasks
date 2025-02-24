@@ -8,7 +8,7 @@ public class ItemCountMap {
     public Map<String, Integer> createItemCountMap(final String[] itemArray) {
         Map<String, Integer> itemMap = new HashMap<>();
         for (String item : itemArray) {
-            itemMap.put(item, itemMap.getOrDefault(item, 0) + 1);
+            itemMap.merge(item, 1, Integer::sum);
         }
         return itemMap;
     }
